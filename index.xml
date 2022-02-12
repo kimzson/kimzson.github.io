@@ -134,16 +134,17 @@
     </item>
     
     <item>
-      <title>my life</title>
+      <title>關於我</title>
       <link>http://www.example.com/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>http://www.example.com/about/</guid>
-      <description>姓名:kimzson
-出生日期:1997/3/8
+      <description>姓名:舜
+出生日期:2005/01/03
 興趣:看小說
 就讀高中:新北高中
- https://www.ntsh.ntpc.edu.tw/p/403-1000-98-1.php?Lang=zh-tw https://hahow.in/courses/5de8fec16117240026540b9c/main?item=5de9050e6117240026540f92&amp;amp;panelMode=PLAY_LIST https://translate.google.com.tw/?hl=zh-TW&amp;amp;tab=TT* https://github.com/spf13/cobra  國小打桌球比賽影片 childhood time.</description>
+專長: 打桌球、邏輯性的整理、學校自然科
+不擅長:表達自我、學校社會科</description>
     </item>
     
     <item>
@@ -152,9 +153,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.example.com/contact/</guid>
-      <description>My gmail kimzson wwwijjijijij
-adadadadadad
-My Instagram is brabrabrabra</description>
+      <description>none</description>
     </item>
     
     <item>
@@ -163,8 +162,7 @@ My Instagram is brabrabrabra</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.example.com/projects/</guid>
-      <description>未來想&amp;hellip;&amp;hellip;
-WHY IS THIS happen</description>
+      <description>NONE</description>
     </item>
     
   </channel>
